@@ -1,1 +1,2 @@
-# chapter10_exercise
+# DMM WEBCAMP　研修課題1　HTML & CSS
+
